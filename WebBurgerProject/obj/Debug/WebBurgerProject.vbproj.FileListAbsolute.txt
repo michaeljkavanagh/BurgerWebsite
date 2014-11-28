@@ -1,0 +1,9 @@
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\bin\WebBurgerProject.dll.config
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\bin\WebBurgerProject.dll
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\bin\WebBurgerProject.pdb
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\bin\WebBurgerProject.xml
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\obj\Debug\WebBurgerProject.Resources.resources
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\obj\Debug\WebBurgerProject.vbproj.GenerateResource.Cache
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\obj\Debug\WebBurgerProject.dll
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\obj\Debug\WebBurgerProject.xml
+H:\WebDesign\VisualProject\WebBurgerProject\WebBurgerProject\obj\Debug\WebBurgerProject.pdb

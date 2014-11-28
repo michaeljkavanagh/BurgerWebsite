@@ -1,0 +1,65 @@
+* {
+				font-family: Impact, Charcoal, sans-serif;
+				color: #665544;
+				text-align: center;
+				
+				}
+			body {
+				width: 960px;
+				margin: 0 auto;
+				background-image: url("img/wood7.jpg");
+				}
+
+			#content {
+				overflow: auto;
+				height: 100%;
+				}
+
+			#nav, #feature,  #picLeft {
+				/*background-color: #efefef;*/
+				padding: 10px;
+				margin: 10px;}
+
+			.column1, .column2, .column3, .text, .picture {
+				/*background-color: #efefef;*/
+				width: 300px;
+				float: left;
+				margin: 10px;
+				
+				}
+			li {
+				display: inline;
+				padding: 5px;}
+
+
+			/*#contentPic {
+				/*background-color: #efefef;*/
+				height: 300px;
+				width: 280px;
+				float: left;
+				padding: 5px;
+				margin: 10px;
+				}*/
+
+			#contentText {
+				/*background-color: #efefef;*/
+				width: 620px;
+				float: left;
+				padding: 5px;
+				margin: 10px;
+				}
+			#footer
+{
+				/*background-color: #efefef;*/
+				width: 935px;
+				float: left;
+				padding: 5px;
+				margin: 10px;
+				}
+.contentPic, .contentTextMid, .contentTextRight {
+				/*background-color: #efefef;*/
+				width: 300px;
+				float: left;
+				margin: 10px;
+				
+				}
